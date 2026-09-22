@@ -1,0 +1,5 @@
+# 编辑器/系统杂项, 不上传到 GitHub
+.vscode/
+Thumbs.db
+desktop.ini
+*.tmp
